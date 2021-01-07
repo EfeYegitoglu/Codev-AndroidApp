@@ -1,2 +1,2 @@
 # Codev
-Social media app for software developers. (RESTful, Retrofit, PHP mysqli, PhpMyadmin)
+Social media app for software developers. (RESTful, Retrofit, Firebase Firestore, PHP mysqli, PhpMyadmin)
