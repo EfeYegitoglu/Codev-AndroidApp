@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CoDev</string>
+    <string name="ic_home">Ana Sayfa</string>
+    <string name="ic_add">Paylaş</string>
+    <string name="ic_profile">Profil</string>
+    <string name="ic_search">Ara</string>
+    <string name="ic_chat">Mesajlar</string>
+
+    //Account
+    <string name="email">E-mail</string>
+    <string name="password">Şifre</string>
+    <string name="passwordAgain">Şifre Tekrar</string>
+    <string name="loginButton">Giriş Yap</string>
+    <string name="signUpButton">Kaydol</string>
+    <string name="goSignUpText">Hesabım yok, Kaydol</string>
+    <string name="goLoginText">Hesabım var, Giriş Yap</string>
+    <string name="verificationCode">Doğrulama Kodu</string>
+    <string name="confirm">Onayla</string>
+    <string name="turnBack">Geri Dön</string>
+    <string name="skip">Devam Et</string>
+    <string name="vText">Mail adresine gönderilen onay kodunu giriniz</string>
+
+    //Profile
+    <string name="name">Ad Soyad (Zorunlu Alan)</string>
+    <string name="webSite">Web Siteniz (Mevcut ise)</string>
+    <string name="about">İlgi Alanları (Zorunlu Alan)</string>
+    <string name="signOut">Çıkış Yap</string>
+    <string name="editProfile">Profili Düzenle</string>
+    <string name="saved">Kaydedilenler</string>
+
+    //Post
+    <string name="star">Beğen</string>
+    <string name="comment">Cevapla</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Düzenle</string>
+    <string name="question">Konu Başlığı (Zorunlu Alan)</string>
+    <string name="info">Konu İçeriği (Zorunlu Alan)</string>
+    <string name="category">Kategori Seçin</string>
+    <string name="addPicture">Fotoğraf Ekle</string>
+    <string name="removePicture">Kaldır</string>
+    <string name="addPostTitle">Konu Başlığı:</string>
+    <string name="addPostExplanation">Konu İçeriği:</string>
+    <string name="required">Zorunlu Alan</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
